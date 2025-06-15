@@ -72,6 +72,6 @@ Open your browser and navigate to the URL provided by the dev server (typically 
 - *Frontend:* React, Styled-components, React Router
 - *Backend:* Node.js, Socket.IO
 
+## Demo
 
-
-Feel free to modify or expand this README as your project evolves! If you want to add a contributing section, screenshots, or more detailed usage instructions, let me know.
+![Demo](https://github.com/user-attachments/assets/ffd1e4d7-14e5-4fde-8f39-305be4bd11ff)
